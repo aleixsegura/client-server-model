@@ -6,7 +6,7 @@ Usage:
   2 - Start the server: 
         
         $ ./server [ -d ] [ -c <server.cfg> ] [ -u <equips.dat> ]                
-  3 - Start client/s     
+  3 - Start a client:     
   
         $ ./client [ -d ] [ -c <clientX.cfg> ] [ -f <bootX.cfg> ]    
   4 - Server commands:
