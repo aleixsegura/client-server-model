@@ -9,11 +9,11 @@ Usage:
   3 - Start a client:     
   
         $ ./client [ -d ] [ -c <clientX.cfg> ] [ -f <bootX.cfg> ]    
-  4 - Server commands:
+Server commands:
   
         - list: displays information about the clients.    
         - quit: finalizes the server.    
-  5 - Client commands:
+Client commands:
   
         - send-cfg: sends the configuration file to the server.    
         - get-cfg: gets the configuration file from the server.    
