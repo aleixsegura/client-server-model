@@ -1,8 +1,6 @@
-# client-server-model
-A basic implementation of the traditional client-server model. First assignment of the networking subject from CS degree at University of Lleida.
-
-Usage:    
-  1 - Open one terminal for the server and as many terminals as desired clients on a Linux machine.              
+# Usage  
+  1 - Open one terminal for the server and as many terminals as desired clients on a Linux machine.
+  
   2 - Start the server: 
         
         $ ./server [ -d ] [ -c <server.cfg> ] [ -u <equips.dat> ]                
